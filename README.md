@@ -1,1 +1,1 @@
-# journal-lycee-AG
+# site webb du journal du lycée Algoud Laffemas
